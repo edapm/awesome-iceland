@@ -1,16 +1,21 @@
-# Awesome Iceland [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Iceland
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Awesome places and things in Iceland! 🇮🇸
 
-
 ## Contents
 
-*Nothing here yet!*
+- [Þingvellir](#Þingvellir)
+
+## List
+
+### Þingvellir
+
+Where the first ever parliament was held, the Althing. Also one of two rift valleys in the world!
+
+<img src="https://images.unsplash.com/photo-1602617640013-ae434ade8f96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80" width=150 />
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## License
-
-Licensed under Creative Commons. See [License](LICENSE) for full details.
