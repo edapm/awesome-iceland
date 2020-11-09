@@ -1,10 +1,4 @@
----
-name: Add an Awesome Feature
-about: Add something awesome about Iceland to the list!
-title: "[Awesome Iceland] - Enter place/thing here"
-labels: awesome-pull
-assignees: edapm
----
+<!-- Please name your PR "Add [awesome-thing]", NOT "Update README.md"! It will not be accepted! -->
 
 ## What?
 
@@ -27,7 +21,7 @@ assignees: edapm
     - Awesome Thing [#awesome-thing]
 ...
 
-## List
+## Places / Items
 
 ...
 
