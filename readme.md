@@ -1,6 +1,4 @@
-# Awesome Iceland
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Iceland [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Awesome places and things in Iceland! 🇮🇸
 
