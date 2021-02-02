@@ -1,4 +1,4 @@
-# Awesome Iceland 
+# Awesome Iceland
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -7,8 +7,10 @@
 ## Contents
 
 - [Places](#places)
-    - [Þingvellir](#Þingvellir)
-    - [Gullfoss](#Gullfoss)
+    - [Þingvellir](#þingvellir)
+    - [Gullfoss](#gullfoss)
+- [Items](#items)
+- [Contribute](#contribute)
 
 ## Places
 
